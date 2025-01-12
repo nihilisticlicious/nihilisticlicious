@@ -1,4 +1,4 @@
-# NihilisticLicious
+# nihilisticlicious
 
 **Software Engineer**  
 Specializing in: Golang, SQL, Backend Development, Machine Learning  
